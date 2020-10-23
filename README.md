@@ -4,4 +4,4 @@
 
 -o参数接需要执行的命令
 
-[image]()
+![image](https://www.ghtwf01.cn/usr/uploads/2020/10/1157248571.png)
